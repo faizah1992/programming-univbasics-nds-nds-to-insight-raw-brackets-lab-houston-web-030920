@@ -15,8 +15,8 @@ while directors_index<nds.count do
     movies_index+=1 
   
 end
-result[directorsname]=total
-directors_index=+1
+  result[directorsname]=total
+  directors_index+=1
 end
   
   # Remember, it's always OK to pretty print what you get *in* to make sure
